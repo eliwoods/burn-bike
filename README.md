@@ -1,2 +1,2 @@
 # burn-bike
- Arduino and environment for my Burning Man bicycle
+ Arduino environment for my Burning Man bicycle
